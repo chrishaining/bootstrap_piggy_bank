@@ -37,6 +37,10 @@
   }
 }
 
+.container-fluid {
+  background-color: blueviolet;
+}
+
 .row {
   background-color: bisque;
   margin: 5px;
